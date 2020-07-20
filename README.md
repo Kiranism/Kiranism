@@ -1,6 +1,7 @@
 ### Hello World🌍👋, I'm Kiran!
 
-Hi, im a CompSc student 💻 | Aspiring Full stack Developer|cybersecurity Enthusiastic <br>
+Hi, im a CompSc student | Aspiring Full stack Developer | cybersecurity Enthusiastic .
+
   <img align="right" alt="GIF" src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=6c09b952c4cd7960ca1d63c5178d718f3fd4505e8bd2dc85&rid=giphy.gif" />
 
 **Talking about Personal Stuffs:**
