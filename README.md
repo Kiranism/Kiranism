@@ -6,10 +6,8 @@ Hi, im a CompSc student | Aspiring Full stack Developer | cybersecurity Enthusia
 
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning HTML, CSS, javascript .
-- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 🔭 I’m currently working on creating webpages and learning React.
 - 😀 I like to Follow infosec News and always try to keep update with cybersec.
-- 💬 Content Creator in Instagram .
-- ⚡ Many More To Come :) 
 
 **Languages and Tools:**  
 
