@@ -1,12 +1,12 @@
 ### Hello World🌍👋, I'm Kiran!
 
-Hi, im a Frontend developer | Aspiring Full Stack Developer | Cybersecurity Enthusiastic .
+Hi, im a Frontend developer | React | Nextjs | Shopify developer
 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning Nextjs React and Redux.
-- 🔭 I’m currently working on Creating Responsive Single page webapps using React.
+- 🔭 I’m currently working on Creating Awesome webapps using React Nextjs and creating super fast headless ecommerce solutions using shopify
 - 😀 I like to Follow infosec News and always try to keep update with cybersec.
 
 **Languages and Tools:**  
