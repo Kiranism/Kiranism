@@ -4,8 +4,6 @@ Hi, im a Frontend developer | React | Nextjs | Shopify developer
 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-![](https://komarev.com/ghpvc/?username=kiranism)
-
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning Nextjs React and Redux.
 - 🔭 I’m currently working on Creating Awesome webapps using React Nextjs and creating super fast headless ecommerce solutions using shopify
