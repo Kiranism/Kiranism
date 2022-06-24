@@ -2,7 +2,7 @@
 
 Hi, im a Fullstack developer | React | Nextjs | Node js | Shopify developer
 
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="center" alt="GIF" src="https://github.com/Kiranism/Kiranism/blob/master/Assets/job.gif" />
 
 **Talking about Personal Stuffs:**
 - 🌱 I Write Code as a Javascript Full stack developer. Specialized in React and Node js
