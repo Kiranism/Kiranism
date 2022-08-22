@@ -1,11 +1,11 @@
 ### Hello World🌍👋, I'm Kiran!
 
-Hi, im a Fullstack developer | React | Nextjs | Node js | Shopify developer
+Hi, im a Frontend developer | React | Nextjs | Shopify developer
 
   <img align="center" alt="GIF" src="https://github.com/Kiranism/Kiranism/blob/master/Assets/job.gif" />
 
 **Talking about Personal Stuffs:**
-- 🌱 I Write Code as a Javascript Full stack developer. Specialized in React and Node js
+- 🌱 I Write Code as a Javascript Frontend developer. Specialized in React js
 - 🔭 I’m currently working on Creating Awesome webapps using React Nextjs and creating super fast headless ecommerce solutions using shopify
 - 😀 I like to Follow infosec News and always try to keep update with cybersec.
 
