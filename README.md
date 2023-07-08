@@ -1,6 +1,6 @@
 ### Hello World🌍👋, I'm Kiran!
 
-Hi, im a Frontend developer | React | Nextjs | Shopify developer
+Hi, im a Frontend developer | React | Nextjs | Wordpress-Shopify developer
 
   <img align="center" alt="GIF" src="https://github.com/Kiranism/Kiranism/blob/master/Assets/job.gif" />
 
