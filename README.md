@@ -2,7 +2,7 @@
 
 Hi, im a Frontend developer | React | Nextjs | Tailwind Css | Mui
 
-  <img align="center" alt="GIF" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
+  <img align="center" alt="GIF" height="300px" width="100%" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
 
 **Talking about Personal Stuffs:**
 - 🌱 I Write Code as a Javascript Frontend developer. Specialized in React js
