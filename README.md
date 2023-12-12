@@ -1,15 +1,14 @@
-### Hello World🌍👋, I'm Kiran!
+### 🌍 Hello World👋, I'm Kiran!
 
-Hi, im a Frontend developer | React | Nextjs | Tailwind Css | Mui
+🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
 
-Find my writings over [here](https://kiranfolio.vercel.app)
+✒️ Find my writings over [here](https://kiranfolio.vercel.app)
 
   <img align="center" alt="GIF" height="200px" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
 
-**Talking about Personal Stuffs:**
-- 🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
-- 🔭 I’m currently working on Creating Awesome webapps using React Nextjs and creating super fast headless ecommerce solutions using wordpress, shopify
-- 😀 I like to Follow latest tech News and always try to keep update with tech and cybersec.
+
+Passionate about writing clean and maintainable code that adheres to industry standards and best practices.
+Always eager to learn new technologies and stay up-to-date with the latest trends in tech.
 
 **Languages and Tools:**  
 
