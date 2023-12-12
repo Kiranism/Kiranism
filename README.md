@@ -4,7 +4,7 @@ Hi, im a Frontend developer | React | Nextjs | Tailwind Css | Mui
 
 Find my writings over [here](https://kiranfolio.vercel.app)
 
-  <img align="center" alt="GIF" height="300px" width="100%" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
+  <img align="center" alt="GIF" height="200px" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
 
 **Talking about Personal Stuffs:**
 - 🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
@@ -13,11 +13,9 @@ Find my writings over [here](https://kiranfolio.vercel.app)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws)](https://skillicons.dev)
+
+
+<a href='https://www.buymeacoffee.com/kir4n' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+
 
